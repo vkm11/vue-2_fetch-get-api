@@ -1,8 +1,11 @@
 # vue-2_fetch-get-api
 
 ## Fetch Get api
- ### install axios and vue-axios
- ### make component
+ ## 1 install axios and vue-axios
+    npm i axios vue-axios
+
+ ## 2 make component
+
  ### use mounted life cycle hooks for call api
  ### use v-for for show list of data
 
